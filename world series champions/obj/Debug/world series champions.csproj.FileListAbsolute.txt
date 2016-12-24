@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\bin\Debug\world series champions.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\bin\Debug\world series champions.exe
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\bin\Debug\world series champions.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world_series_champions.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions.exe
+c:\users\gods1\documents\visual studio 2015\Projects\world series champions\world series champions\obj\Debug\world series champions.pdb
